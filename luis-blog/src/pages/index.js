@@ -1,18 +1,15 @@
 import React from "react"
 import { Link } from 'gatsby'
-import Footer from "../components/footer"
-import Header from "../components/header"
+import Layout from "../components/layout"
 
 const IndexPage = () => {
   return (
-    <div>
-      <Header />
+    <Layout> {/* Lo que es unico de la pagina va aqui adentro */}
       <h1>Hola.</h1>
       <h2>Mi nombre es Luis Salgado y vivo en Caracas.</h2>
       <p>Tienes preguntas? -- Visita <Link to="/contact">Contact Me</Link></p>
-      <Footer />
-    </div>
-    )
+    </Layout>
+  )
 }
 
 export default IndexPage

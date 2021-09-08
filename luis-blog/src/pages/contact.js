@@ -1,11 +1,9 @@
 import React from 'react'
-import Footer from '../components/footer'
-import Header from "../components/header"
+import Layout from '../components/layout'
 
 const ContactPage = () => {
     return (
-        <div>
-            <Header />
+        <Layout>
             <h1>Contact Page</h1>
             <p>Estos son mis datos personales
                 <p>Nombre: Luis Salgado</p>
@@ -13,8 +11,7 @@ const ContactPage = () => {
                 <p>Telefono: +58 424 153 7845</p>
                 <p>Sigueme en Twitter como  asi ps juejueaa <a href="https://twitter.com/LuxSalgado" target="_blank" rel="noreferrer">@LuxSalgado</a></p>
             </p>
-            <Footer />
-        </div>
+        </Layout>
     )
 }
 
