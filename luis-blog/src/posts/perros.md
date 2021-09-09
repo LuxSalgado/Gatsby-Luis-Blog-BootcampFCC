@@ -1,9 +1,9 @@
 ---
 title: Los perros saben cuándo les estás escondiendo comida a propósito
-date: 2021-09-06
+date: "2021-09-06"
 description: Un nuevo estudio revela que los perros saben cuándo les escondemos comida a propósito.
 tags:
-  - Perros
+  - Perro
   - Comida
 ---
 
@@ -11,7 +11,7 @@ Los perros son capaces de saber cuándo estás eligiendo no darles de comer. Es 
 
 Tal y como recoge [Gizmodo](https://es.gizmodo.com/los-perros-pueden-saber-cuando-les-estas-ocultando-comi-1847604024), esta conclusión podría significar que los perros poseen un aspecto de la cognición se ha considerado exclusivo de los humanos (y algunas aves y grandes primates): la capacidad de **reconocer el funcionamiento interno de otros**.
 
-![Perrito velando](./perro.jpeg)
+![Perrito velando](./perrocomida.jpeg)
 
 La llamada teoría de la mente, en psicología, hace referencia a la capacidad que tenemos de reconocer que los que nos rodean también tienen sus pensamientos y pueden diferir de los nuestros. Esto nos permite **ser empáticos con los demás** y esta capacidad se adquiere cuando somos niños.
 
